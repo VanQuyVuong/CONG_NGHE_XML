@@ -1,0 +1,12 @@
+<orders>
+	<order orderno="O001" ccode="C001" odate="1/10/2025" />
+	<order orderno="O002" ccode="C002" odate="2/10/2025" />
+	<order orderno="O003" ccode="C003" odate="3/10/2025" />
+	<order orderno="O004" ccode="C004" odate="4/10/2025" />
+	<order orderno="O005" ccode="C005" odate="5/10/2025" />
+	<order orderno="O006" ccode="C006" odate="6/10/2025" />
+	<order orderno="O007" ccode="C007" odate="7/10/2025" />
+	<order orderno="O008" ccode="C008" odate="8/10/2025" />
+	<order orderno="O009" ccode="C009" odate="9/10/2025" />
+	<order orderno="O010" ccode="C010" odate="10/10/2025" />
+</orders>

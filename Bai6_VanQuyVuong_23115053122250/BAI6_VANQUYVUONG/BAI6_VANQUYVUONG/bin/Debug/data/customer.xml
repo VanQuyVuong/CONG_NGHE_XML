@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customers>
+	<customer ccode="C001" cname="Văn Quý Vương" address="23115053122250" />
+	<customer ccode="C002" cname="Phan Thị Thanh N" address="Đà Nẵng" />
+	<customer ccode="C003" cname="Nguyễn Văn C" address="Thành phố Hồ Chí Minh" />
+	<customer ccode="C004" cname="Lê Thị D" address="Hà Nội" />
+	<customer ccode="C005" cname="Phạm Văn E" address="Cần Thơ" />
+	<customer ccode="C006" cname="Trần Thị F" address="Hải Phòng" />
+	<customer ccode="C007" cname="Hoàng Văn G" address="Huế" />
+	<customer ccode="C008" cname="Võ Thị H" address="Nha Trang" />
+	<customer ccode="C009" cname="Đặng Văn I" address="Quảng Ninh" />
+	<customer ccode="C010" cname="Bùi Thị K" address="Đồng Nai" />
+</customers>

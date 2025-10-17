@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<ute>
+  <xs:schema id="ute" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="ute" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="student">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Class" type="xs:string" minOccurs="0" />
+                <xs:element name="Address" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <student>
+    <Code>S01   </Code>
+    <Name>Văn Quý Vuong</Name>
+    <Class>125TXML03</Class>
+    <Address>Quảng Nam</Address>
+  </student>
+  <student>
+    <Code>S02   </Code>
+    <Name>Nguyễn Cửu Thành Đạt</Name>
+    <Class>XML03</Class>
+    <Address>Đà Nẵng</Address>
+  </student>
+  <student>
+    <Code>S03   </Code>
+    <Name>Lê Đức Văn Thư</Name>
+    <Class>XML02</Class>
+    <Address>Quảng Nam</Address>
+  </student>
+  <student>
+    <Code>S04   </Code>
+    <Name>Nguyễn Hữu Tuấn</Name>
+    <Class>XML02</Class>
+    <Address>Điện Bàn</Address>
+  </student>
+</ute>

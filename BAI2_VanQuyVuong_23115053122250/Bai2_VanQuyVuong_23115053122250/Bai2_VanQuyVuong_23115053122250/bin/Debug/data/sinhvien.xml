@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ute>
+  <student code="S01" name="Van Quy Vuong" class="125XML01">
+    <course code="C01" name="C#" point="8" />
+    <course code="C02" name="Tu tuong HCM" point="7" />
+    <course code="C04" name="Cong nghe XML" point="5" />
+  </student>
+  <student code="S02" name="Nguyen Cuu Thanh Dat" class="125XML02">
+    <course code="C01" name="C#" point="7" />
+    <course code="C02" name="Tu tuong HCM" point="9" />
+    <course code="C03" name="Chu Nghia Xa Hoi" point="8" />
+    <course code="C04" name="Cong nghe XML" point="6" />
+  </student>
+  <student code="S03" name="Le Viet Dat" class="125XML02">
+    <course code="C01" name="C#" point="2" />
+    <course code="C02" name="Lich Su Dang" point="10" />
+    <course code="C03" name="Chu Nghia Xa Hoi" point="4" />
+    <course code="C04" name="Cong nghe XML" point="7" />
+  </student>
+</ute>

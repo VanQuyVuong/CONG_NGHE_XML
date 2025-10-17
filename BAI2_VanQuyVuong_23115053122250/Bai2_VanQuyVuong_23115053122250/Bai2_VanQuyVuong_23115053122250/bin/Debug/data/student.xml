@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ute>
+	<student>
+		<name>Van Quy Vuong</name>
+		<class>125XML01</class>
+	</student>
+	<student>
+		<name>Nguyen Cuu Thanh Dat</name>
+		<class>125XML02</class>
+	</student>
+</ute>

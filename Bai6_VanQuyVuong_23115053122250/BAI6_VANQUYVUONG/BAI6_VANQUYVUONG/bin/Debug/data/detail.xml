@@ -1,0 +1,14 @@
+<details>
+	<item orderno="O001" icode="I001" qty="1" price="1500" />
+	<item orderno="O001" icode="I002" qty="2" price="300" />
+	<item orderno="O002" icode="I003" qty="1" price="450" />
+	<item orderno="O002" icode="I004" qty="1" price="2200" />
+	<item orderno="O003" icode="I005" qty="2" price="1800" />
+	<item orderno="O004" icode="I006" qty="3" price="200" />
+	<item orderno="O005" icode="I007" qty="2" price="600" />
+	<item orderno="O006" icode="I008" qty="1" price="850" />
+	<item orderno="O007" icode="I009" qty="2" price="900" />
+	<item orderno="O008" icode="I010" qty="1" price="1700" />
+	<item orderno="O009" icode="I001" qty="1" price="1500" />
+	<item orderno="O010" icode="I004" qty="1" price="2200" />
+</details>

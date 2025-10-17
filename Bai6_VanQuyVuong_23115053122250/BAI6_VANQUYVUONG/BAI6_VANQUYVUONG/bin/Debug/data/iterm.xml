@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item icode="I001" iname="Samsung Galaxy S24 Ultra" rate="1250" />
+	<item icode="I002" iname="iPhone 15 Pro Max" rate="1600" />
+	<item icode="I003" iname="Tai nghe AirPods Pro 2" rate="250" />
+	<item icode="I004" iname="Apple Watch Series 9" rate="400" />
+	<item icode="I005" iname="iPad Air M2" rate="850" />
+	<item icode="I006" iname="Sạc dự phòng Anker 20000mAh" rate="50" />
+	<item icode="I007" iname="Loa di động Sony SRS-XB13" rate="120" />
+	<item icode="I008" iname="TV Samsung QLED 55 inch" rate="950" />
+	<item icode="I009" iname="Máy chơi game PS5" rate="550" />
+	<item icode="I010" iname="MacBook Air M3" rate="1150" />
+</items>
